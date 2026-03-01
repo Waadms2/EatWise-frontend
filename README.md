@@ -1,0 +1,2 @@
+# EatWise-frontend
+senior project
